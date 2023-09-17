@@ -9,7 +9,7 @@ const distancia = Math.sqrt((pontoX2 - pontoX1) ** 2 + (pontoY2 - pontoY1) ** 2)
 
 
 
-console.log(` A distância entre dois pontoe é de ${distancia}.`)
+console.log(` A distância entre dois pontos é de ${distancia}.`)
 
 
 
