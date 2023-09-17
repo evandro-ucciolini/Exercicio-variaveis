@@ -2,6 +2,6 @@
 
 const fahrenheit = 80.6
 
-const celsius = (fahrenheit - 32) * 5/9
+const celsius = ((fahrenheit - 32) * 5 / 9).toFixed(2)
 
-console.log (`Nesse momento, a cidade de São paulo faz ${celsius}°C.`)
+console.log(`Nesse momento, a cidade de São paulo faz ${celsius}°C.`)
